@@ -1,0 +1,92 @@
+<div class="container mx-auto" style="width: 45%;">
+  <div class="row p-5">
+    <div class="col-12 text-center">
+      <h2 class="fw-bold">Pricing & Plans</h2>
+      <p>With lots of unique blocks, you can easily build a page without coding. Build your next landing page.</p>
+    </div>
+  </div>
+</div>
+
+<div class="container pb-5">
+      <div class="d-flex justify-content-center align-items-center">
+        <span class="me-1">Monthly</span>
+        <div class="form-check form-switch mx-2">
+          <input class="form-check-input" type="checkbox" id="billingToggle">
+        </div>
+        <span class="me-3">Yearly</span>
+        <span class="badge badge-BGC purpleColor">SAVE 25%</span>
+      </div>
+    </div>
+
+<div class="container mb-5 w-75">
+  <div class="row card-group">
+    <div class="col-4">
+      <div class="card h-100 border-0 bg-light">
+        <div class="card-header border-0 bg-light">
+          <p class="purpleColor fw-bold pt-3">STARTER</p>
+          <h6 class="text-center"><span class="fs-4 fw-bold">$</span><span class="display-2 me-2">19</span>/month</h6>
+          <p class="text-secondary">Billed monthly</p>
+        </div>
+        <div class="card-body border-0">
+          <ul class="list-unstyled"> 
+            <li><span class="text-success me-2">&#10003;</span>Commercial License</li>
+            <li><span class="text-success me-2">&#10003;</span>100+ HTML UI Elements</li>
+            <li><span class="text-success me-2">&#10003;</span>01 Domain Support</li>
+            <li class="text-secondary"><span class="me-2">&#10007;</span>1 Month Premium Support</li>
+            <li class="text-secondary"><span class="me-2">&#10007;</span>Lifetime Updates</li>
+          </ul>
+        </div>
+        <div class="card-footer border-0 bg-light d-flex flex-column justify-content-between" style="height: 110px;">
+          <button class="btn badge-BGC purpleColor fw-bold d-flex justify-content-between" style="width: 80%;">Start Free Trial<span>&#10132;</span></button>          
+          <p class="text-secondary">No credit card required.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-4">
+      <div class="card h-100 border-0 bg-light">
+        <div class="card-header border-0 bg-light">
+          <p class="purpleColor fw-bold pt-3">STANDARD</p>
+          <h6 class="text-center"><span class="fs-4 fw-bold">$</span><span class="display-2 me-2">49</span>/month</h6>
+          <p class="text-secondary">Billed monthly</p>
+        </div>
+        <div class="card-body border-0 bg-light">
+          <ul class="list-unstyled">
+            <li><span class="text-success me-2">&#10003;</span>Commercial License</li>
+            <li><span class="text-success me-2">&#10003;</span>100+ HTML UI Elements</li>
+            <li><span class="text-success me-2">&#10003;</span>Unlimited Domain Support</li>
+            <li><span class="text-success me-2">&#10003;</span>1 Month Premium Support</li>
+            <li class="text-secondary"><span class="me-2">&#10007;</span>Lifetime Updates</li>
+          </ul>
+        </div>
+        <div class="card-footer border-0 bg-light d-flex flex-column justify-content-between" style="height: 110px;"">
+          <button class="btn purpleBgColor text-white fw-bold d-flex justify-content-between" style="width: 80%;">Start Free Trial<span>&#10132;</span></button>
+          <p class="text-secondary">No credit card required.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-4">
+      <div class="card h-100 border-0 bg-light">
+        <div class="card-header border-0 bg-light">
+          <p class="purpleColor fw-bold pt-3">PREMIUM</p>
+          <h6 class="text-center"><span class="fs-4 fw-bold">$</span><span class="display-2 me-2">99</span>/month</h6>
+          <p class="text-secondary">Billed monthly</p>
+        </div>
+        <div class="card-body border-0 bg-light">
+          <ul class="list-unstyled">
+            <li><span class="text-success me-2">&#10003;</span>Commercial License</li>
+            <li><span class="text-success me-2">&#10003;</span>100+ HTML UI Elements</li>
+            <li><span class="text-success me-2">&#10003;</span>Unlimited Domain Support</li>
+            <li><span class="text-success me-2">&#10003;</span>6 Month Premium Support</li>
+            <li><span class="text-success me-2">&#10003;</span>Lifetime Updates</li>
+          </ul>
+        </div>
+        <div class="card-footer border-0 bg-light d-flex flex-column justify-content-between" style="height: 110px;"">
+          <button class="btn badge-BGC fw-bold purpleColor d-flex justify-content-between" style="width: 80%;">Start Free Trial<span>&#10132;</span></button>
+          <p class="text-secondary">No credit card required.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
