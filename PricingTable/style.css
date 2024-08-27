@@ -1,0 +1,21 @@
+/* Enter your styles here */
+@import url('https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,100..900;1,100..900&display=swap');    
+* {
+  font-family: 'Exo', sans-serif;
+}
+
+body {
+  background-color: rgb(236, 242, 247);
+}
+
+.badge-BGC {
+  background-color: rgb(219, 224, 246);
+}
+
+.purpleColor {
+  color: rgb(71, 59, 240)
+}
+
+.purpleBgColor {
+  background-color: rgb(71, 59, 240)
+}
